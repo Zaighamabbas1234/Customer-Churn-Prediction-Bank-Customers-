@@ -1,2 +1,2 @@
 # Customer-Churn-Prediction-Bank-Customers-
-Identify Customers Who Are Likely To Leave The Bank.
+Data Science & Analytics Intership practice Task 03 by Zaigham Abbas at DevelopersHub Corporation, Islamabad.
